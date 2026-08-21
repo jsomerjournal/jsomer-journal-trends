@@ -4,10 +4,10 @@
     "abbreviation": "JSOMER",
     "issn": "3062-0945",
     "doiPrefix": "10.29329",
-    "dataUpdated": "July 25, 2026",
-    "coverage": "December 2024 through July 2026",
-    "sourceNote": "Published-article metadata and COUNTER-ready OJS usage statistics.",
-    "latestUsageMonth": "2026-07"
+    "dataUpdated": "August 22, 2026",
+    "coverage": "December 2024 through August 2026",
+    "sourceNote": "Published-article metadata, COUNTER-ready OJS usage statistics, Web of Science and Scopus exports, aggregate OJS review data, and Flag Counter country totals.",
+    "latestUsageMonth": "2026-08"
   },
   "summary": {
     "publicationYears": 3,
@@ -15,8 +15,8 @@
     "articlesPublished": 50,
     "contributingAuthors": 136,
     "countriesRepresented": 21,
-    "articleViews": 97734,
-    "pdfDownloads": 33387,
+    "articleViews": 116099,
+    "pdfDownloads": 42316,
     "internationalCollaborationArticles": 13,
     "internationalCollaborationRate": 26.0
   },
@@ -218,7 +218,8 @@
       "2026-04",
       "2026-05",
       "2026-06",
-      "2026-07"
+      "2026-07",
+      "2026-08"
     ],
     "views": [
       424,
@@ -240,7 +241,8 @@
       8726,
       13321,
       16631,
-      18676
+      25345,
+      11696
     ],
     "downloads": [
       225,
@@ -262,7 +264,8 @@
       3835,
       4536,
       4543,
-      4561
+      6918,
+      3682
     ]
   },
   "topViewed": [
@@ -281,55 +284,8 @@
       "articleType": "Original Article",
       "issue": "Vol. 3, No. 1 (2026)",
       "year": 2026,
-      "views": 6095,
-      "downloads": 2175
-    },
-    {
-      "id": 43,
-      "title": "Female grandiose narcissists are willing to post sexualized selfies to garner attention, regardless of self-esteem",
-      "doi": "10.29329/jsomer.43",
-      "url": "https://jsomer.org/index.php/pub/article/view/43",
-      "authors": [
-        "Emily Brophy",
-        "Malinda Desjarlais"
-      ],
-      "articleType": "Original Research Article",
-      "issue": "Vol. 2, No. 4 (2025)",
-      "year": 2025,
-      "views": 5398,
-      "downloads": 383
-    },
-    {
-      "id": 45,
-      "title": "Motives for social media use in adults: associations with platform-specific use, psychological distress, and problematic engagement",
-      "doi": "10.29329/jsomer.45",
-      "url": "https://jsomer.org/index.php/pub/article/view/45",
-      "authors": [
-        "Martin Wolgast",
-        "Hampus Adler",
-        "Sima Nurali Wolgast"
-      ],
-      "articleType": "Original Research Article",
-      "issue": "Vol. 2, No. 3 (2025)",
-      "year": 2025,
-      "views": 4638,
-      "downloads": 0
-    },
-    {
-      "id": 14,
-      "title": "Extracting emerging events from social media: X/Twitter and the multilingual analysis of emerging geopolitical topics in near real time",
-      "doi": "10.29329/jsomer.14",
-      "url": "https://jsomer.org/index.php/pub/article/view/14",
-      "authors": [
-        "John Burns",
-        "Tom Kelsey",
-        "Carl Donovan"
-      ],
-      "articleType": "Review Article",
-      "issue": "Vol. 2, No. 1 (2025)",
-      "year": 2025,
-      "views": 4521,
-      "downloads": 4605
+      "views": 7539,
+      "downloads": 2477
     },
     {
       "id": 76,
@@ -344,22 +300,23 @@
       "articleType": "Original Article",
       "issue": "Vol. 3, No. 1 (2026)",
       "year": 2026,
-      "views": 3980,
-      "downloads": 378
+      "views": 5867,
+      "downloads": 447
     },
     {
-      "id": 46,
-      "title": "I have so much FoMO! An exploration into psychological variables influencing fear of missing out and Snapchat intensity",
-      "doi": "10.29329/jsomer.46",
-      "url": "https://jsomer.org/index.php/pub/article/view/46",
+      "id": 43,
+      "title": "Female grandiose narcissists are willing to post sexualized selfies to garner attention, regardless of self-esteem",
+      "doi": "10.29329/jsomer.43",
+      "url": "https://jsomer.org/index.php/pub/article/view/43",
       "authors": [
-        "Deya Roy"
+        "Emily Brophy",
+        "Malinda Desjarlais"
       ],
       "articleType": "Original Research Article",
-      "issue": "Vol. 2, No. 5 (2025)",
+      "issue": "Vol. 2, No. 4 (2025)",
       "year": 2025,
-      "views": 3725,
-      "downloads": 869
+      "views": 5861,
+      "downloads": 471
     },
     {
       "id": 102,
@@ -376,8 +333,54 @@
       "articleType": "Review Article",
       "issue": "Vol. 3, No. 2 (2026)",
       "year": 2026,
-      "views": 3679,
-      "downloads": 482
+      "views": 5603,
+      "downloads": 922
+    },
+    {
+      "id": 45,
+      "title": "Motives for social media use in adults: associations with platform-specific use, psychological distress, and problematic engagement",
+      "doi": "10.29329/jsomer.45",
+      "url": "https://jsomer.org/index.php/pub/article/view/45",
+      "authors": [
+        "Martin Wolgast",
+        "Hampus Adler",
+        "Sima Nurali Wolgast"
+      ],
+      "articleType": "Original Research Article",
+      "issue": "Vol. 2, No. 3 (2025)",
+      "year": 2025,
+      "views": 5546,
+      "downloads": 1225
+    },
+    {
+      "id": 14,
+      "title": "Extracting emerging events from social media: X/Twitter and the multilingual analysis of emerging geopolitical topics in near real time",
+      "doi": "10.29329/jsomer.14",
+      "url": "https://jsomer.org/index.php/pub/article/view/14",
+      "authors": [
+        "John Burns",
+        "Tom Kelsey",
+        "Carl Donovan"
+      ],
+      "articleType": "Review Article",
+      "issue": "Vol. 2, No. 1 (2025)",
+      "year": 2025,
+      "views": 5134,
+      "downloads": 5085
+    },
+    {
+      "id": 46,
+      "title": "I have so much FoMO! An exploration into psychological variables influencing fear of missing out and Snapchat intensity",
+      "doi": "10.29329/jsomer.46",
+      "url": "https://jsomer.org/index.php/pub/article/view/46",
+      "authors": [
+        "Deya Roy"
+      ],
+      "articleType": "Original Research Article",
+      "issue": "Vol. 2, No. 5 (2025)",
+      "year": 2025,
+      "views": 4075,
+      "downloads": 955
     },
     {
       "id": 65,
@@ -393,24 +396,8 @@
       "articleType": "Original Research Article",
       "issue": "Vol. 2, No. 4 (2025)",
       "year": 2025,
-      "views": 3243,
-      "downloads": 557
-    },
-    {
-      "id": 15,
-      "title": "Relationship stress and sleep: examining the mediation of social media use for objective and subjective sleep quality",
-      "doi": "10.29329/jsomer.15",
-      "url": "https://jsomer.org/index.php/pub/article/view/15",
-      "authors": [
-        "Michael Langlais",
-        "Jennifer Bigalke",
-        "Jeremy Bigalke"
-      ],
-      "articleType": "Original Research Article",
-      "issue": "Vol. 2, No. 1 (2025)",
-      "year": 2025,
-      "views": 3049,
-      "downloads": 1101
+      "views": 3515,
+      "downloads": 617
     },
     {
       "id": 56,
@@ -424,8 +411,24 @@
       "articleType": "Original Research Article",
       "issue": "Vol. 2, No. 5 (2025)",
       "year": 2025,
-      "views": 2886,
-      "downloads": 1233
+      "views": 3474,
+      "downloads": 1461
+    },
+    {
+      "id": 58,
+      "title": "Unregulated gambling on social media platforms exacerbates risk of problem gambling in a large national sample",
+      "doi": "10.29329/jsomer.58",
+      "url": "https://jsomer.org/index.php/pub/article/view/58",
+      "authors": [
+        "Michael Sofis",
+        "Mackenzie Slade",
+        "Ari Kirshenbaum"
+      ],
+      "articleType": "Original Research Article",
+      "issue": "Vol. 2, No. 5 (2025)",
+      "year": 2025,
+      "views": 3343,
+      "downloads": 719
     }
   ],
   "topDownloaded": [
@@ -442,8 +445,8 @@
       "articleType": "Review Article",
       "issue": "Vol. 2, No. 1 (2025)",
       "year": 2025,
-      "views": 4521,
-      "downloads": 4605
+      "views": 5134,
+      "downloads": 5085
     },
     {
       "id": 84,
@@ -460,8 +463,8 @@
       "articleType": "Original Article",
       "issue": "Vol. 3, No. 1 (2026)",
       "year": 2026,
-      "views": 6095,
-      "downloads": 2175
+      "views": 7539,
+      "downloads": 2477
     },
     {
       "id": 36,
@@ -480,8 +483,38 @@
       "articleType": "Review Article",
       "issue": "Vol. 2, No. 3 (2025)",
       "year": 2025,
-      "views": 2258,
-      "downloads": 1809
+      "views": 2646,
+      "downloads": 2120
+    },
+    {
+      "id": 29,
+      "title": "My socials told me I have ADHD: A cross-sectional study of information about ADHD symptomatology on social media",
+      "doi": "10.29329/jsomer.29",
+      "url": "https://jsomer.org/index.php/pub/article/view/29",
+      "authors": [
+        "Brooke Hulsizer",
+        "Fabrizia Passaro"
+      ],
+      "articleType": "Review Article",
+      "issue": "Vol. 2, No. 3 (2025)",
+      "year": 2025,
+      "views": 3097,
+      "downloads": 1610
+    },
+    {
+      "id": 56,
+      "title": "Milestones and mindsets: how social media shapes young adults’ expectations and emotional well-being",
+      "doi": "10.29329/jsomer.56",
+      "url": "https://jsomer.org/index.php/pub/article/view/56",
+      "authors": [
+        "Romilly O'Connell",
+        "Neil Anthony Daruwala"
+      ],
+      "articleType": "Original Research Article",
+      "issue": "Vol. 2, No. 5 (2025)",
+      "year": 2025,
+      "views": 3474,
+      "downloads": 1461
     },
     {
       "id": 3,
@@ -497,23 +530,24 @@
       "articleType": "Original Research Article",
       "issue": "Vol. 1, No. 1 (2024)",
       "year": 2024,
-      "views": 2654,
-      "downloads": 1263
+      "views": 3007,
+      "downloads": 1401
     },
     {
-      "id": 56,
-      "title": "Milestones and mindsets: how social media shapes young adults’ expectations and emotional well-being",
-      "doi": "10.29329/jsomer.56",
-      "url": "https://jsomer.org/index.php/pub/article/view/56",
+      "id": 45,
+      "title": "Motives for social media use in adults: associations with platform-specific use, psychological distress, and problematic engagement",
+      "doi": "10.29329/jsomer.45",
+      "url": "https://jsomer.org/index.php/pub/article/view/45",
       "authors": [
-        "Romilly O'Connell",
-        "Neil Anthony Daruwala"
+        "Martin Wolgast",
+        "Hampus Adler",
+        "Sima Nurali Wolgast"
       ],
       "articleType": "Original Research Article",
-      "issue": "Vol. 2, No. 5 (2025)",
+      "issue": "Vol. 2, No. 3 (2025)",
       "year": 2025,
-      "views": 2886,
-      "downloads": 1233
+      "views": 5546,
+      "downloads": 1225
     },
     {
       "id": 15,
@@ -528,22 +562,8 @@
       "articleType": "Original Research Article",
       "issue": "Vol. 2, No. 1 (2025)",
       "year": 2025,
-      "views": 3049,
-      "downloads": 1101
-    },
-    {
-      "id": 2,
-      "title": "Exploration of the association between social media addiction, self-esteem, self-compassion and loneliness",
-      "doi": "10.29329/jsomer.2",
-      "url": "https://jsomer.org/index.php/pub/article/view/2",
-      "authors": [
-        "Eirini Mitropoulou"
-      ],
-      "articleType": "Original Research Article",
-      "issue": "Vol. 1, No. 1 (2024)",
-      "year": 2024,
-      "views": 2282,
-      "downloads": 1039
+      "views": 3292,
+      "downloads": 1211
     },
     {
       "id": 66,
@@ -556,8 +576,8 @@
       "articleType": "Review Article",
       "issue": "Vol. 2, No. 5 (2025)",
       "year": 2025,
-      "views": 1652,
-      "downloads": 1031
+      "views": 1967,
+      "downloads": 1179
     },
     {
       "id": 23,
@@ -572,27 +592,8 @@
       "articleType": "Review Article",
       "issue": "Vol. 2, No. 2 (2025)",
       "year": 2025,
-      "views": 2720,
-      "downloads": 959
-    },
-    {
-      "id": 27,
-      "title": "Weight stigma exposure inventory (WeSEI):  Adaptation to Turkish culture, validity and reliability study",
-      "doi": "10.29329/jsomer.27",
-      "url": "https://jsomer.org/index.php/pub/article/view/27",
-      "authors": [
-        "Cafer Çarkıt",
-        "Wan Ying Gan",
-        "Hazal Koç",
-        "Nadia Bevan",
-        "Ezgi Avcı",
-        "Yi-Ching Lin"
-      ],
-      "articleType": "Original Research Article",
-      "issue": "Vol. 2, No. 1 (2025)",
-      "year": 2025,
-      "views": 1287,
-      "downloads": 931
+      "views": 2935,
+      "downloads": 1153
     }
   ],
   "articles": [
@@ -607,8 +608,8 @@
       "articleType": "Original Research Article",
       "issue": "Vol. 1, No. 1 (2024)",
       "year": 2024,
-      "views": 2282,
-      "downloads": 1039
+      "views": 2459,
+      "downloads": 1121
     },
     {
       "id": 3,
@@ -624,8 +625,8 @@
       "articleType": "Original Research Article",
       "issue": "Vol. 1, No. 1 (2024)",
       "year": 2024,
-      "views": 2654,
-      "downloads": 1263
+      "views": 3007,
+      "downloads": 1401
     },
     {
       "id": 4,
@@ -642,8 +643,8 @@
       "articleType": "Original Research Article",
       "issue": "Vol. 1, No. 1 (2024)",
       "year": 2024,
-      "views": 1017,
-      "downloads": 442
+      "views": 1273,
+      "downloads": 525
     },
     {
       "id": 6,
@@ -659,8 +660,8 @@
       "articleType": "Original Research Article",
       "issue": "Vol. 1, No. 1 (2024)",
       "year": 2024,
-      "views": 1739,
-      "downloads": 861
+      "views": 1959,
+      "downloads": 963
     },
     {
       "id": 9,
@@ -673,8 +674,8 @@
       "articleType": "Original Research Article",
       "issue": "Vol. 1, No. 1 (2024)",
       "year": 2024,
-      "views": 2538,
-      "downloads": 914
+      "views": 2841,
+      "downloads": 1007
     },
     {
       "id": 14,
@@ -689,8 +690,8 @@
       "articleType": "Review Article",
       "issue": "Vol. 2, No. 1 (2025)",
       "year": 2025,
-      "views": 4521,
-      "downloads": 4605
+      "views": 5134,
+      "downloads": 5085
     },
     {
       "id": 15,
@@ -705,8 +706,8 @@
       "articleType": "Original Research Article",
       "issue": "Vol. 2, No. 1 (2025)",
       "year": 2025,
-      "views": 3049,
-      "downloads": 1101
+      "views": 3292,
+      "downloads": 1211
     },
     {
       "id": 16,
@@ -720,8 +721,8 @@
       "articleType": "Editorial",
       "issue": "Vol. 1, No. 1 (2024)",
       "year": 2024,
-      "views": 511,
-      "downloads": 365
+      "views": 606,
+      "downloads": 424
     },
     {
       "id": 17,
@@ -741,8 +742,8 @@
       "articleType": "Review Article",
       "issue": "Vol. 2, No. 1 (2025)",
       "year": 2025,
-      "views": 878,
-      "downloads": 461
+      "views": 948,
+      "downloads": 552
     },
     {
       "id": 18,
@@ -756,8 +757,8 @@
       "articleType": "Original Research Article",
       "issue": "Vol. 2, No. 2 (2025)",
       "year": 2025,
-      "views": 1047,
-      "downloads": 488
+      "views": 1202,
+      "downloads": 601
     },
     {
       "id": 20,
@@ -775,8 +776,8 @@
       "articleType": "Original Research Article",
       "issue": "Vol. 2, No. 1 (2025)",
       "year": 2025,
-      "views": 2621,
-      "downloads": 618
+      "views": 2747,
+      "downloads": 711
     },
     {
       "id": 21,
@@ -792,8 +793,8 @@
       "articleType": "Original Research Article",
       "issue": "Vol. 2, No. 2 (2025)",
       "year": 2025,
-      "views": 1976,
-      "downloads": 778
+      "views": 2214,
+      "downloads": 869
     },
     {
       "id": 22,
@@ -815,8 +816,8 @@
       "articleType": "Review Article",
       "issue": "Vol. 2, No. 2 (2025)",
       "year": 2025,
-      "views": 831,
-      "downloads": 370
+      "views": 888,
+      "downloads": 433
     },
     {
       "id": 23,
@@ -831,8 +832,8 @@
       "articleType": "Review Article",
       "issue": "Vol. 2, No. 2 (2025)",
       "year": 2025,
-      "views": 2720,
-      "downloads": 959
+      "views": 2935,
+      "downloads": 1153
     },
     {
       "id": 26,
@@ -846,8 +847,8 @@
       "articleType": "Review Article",
       "issue": "Vol. 2, No. 2 (2025)",
       "year": 2025,
-      "views": 1537,
-      "downloads": 780
+      "views": 1835,
+      "downloads": 919
     },
     {
       "id": 27,
@@ -865,8 +866,8 @@
       "articleType": "Original Research Article",
       "issue": "Vol. 2, No. 1 (2025)",
       "year": 2025,
-      "views": 1287,
-      "downloads": 931
+      "views": 1394,
+      "downloads": 979
     },
     {
       "id": 29,
@@ -880,8 +881,8 @@
       "articleType": "Review Article",
       "issue": "Vol. 2, No. 3 (2025)",
       "year": 2025,
-      "views": 2812,
-      "downloads": 0
+      "views": 3097,
+      "downloads": 1610
     },
     {
       "id": 33,
@@ -895,8 +896,8 @@
       "articleType": "Original Research Article",
       "issue": "Vol. 2, No. 3 (2025)",
       "year": 2025,
-      "views": 1451,
-      "downloads": 595
+      "views": 1773,
+      "downloads": 679
     },
     {
       "id": 36,
@@ -915,8 +916,8 @@
       "articleType": "Review Article",
       "issue": "Vol. 2, No. 3 (2025)",
       "year": 2025,
-      "views": 2258,
-      "downloads": 1809
+      "views": 2646,
+      "downloads": 2120
     },
     {
       "id": 38,
@@ -930,8 +931,8 @@
       "articleType": "Review Article",
       "issue": "Vol. 2, No. 4 (2025)",
       "year": 2025,
-      "views": 1258,
-      "downloads": 477
+      "views": 1447,
+      "downloads": 598
     },
     {
       "id": 40,
@@ -944,8 +945,8 @@
       "articleType": "Review Article",
       "issue": "Vol. 2, No. 3 (2025)",
       "year": 2025,
-      "views": 576,
-      "downloads": 415
+      "views": 708,
+      "downloads": 479
     },
     {
       "id": 43,
@@ -959,8 +960,8 @@
       "articleType": "Original Research Article",
       "issue": "Vol. 2, No. 4 (2025)",
       "year": 2025,
-      "views": 5398,
-      "downloads": 383
+      "views": 5861,
+      "downloads": 471
     },
     {
       "id": 45,
@@ -975,8 +976,8 @@
       "articleType": "Original Research Article",
       "issue": "Vol. 2, No. 3 (2025)",
       "year": 2025,
-      "views": 4638,
-      "downloads": 0
+      "views": 5546,
+      "downloads": 1225
     },
     {
       "id": 46,
@@ -989,8 +990,8 @@
       "articleType": "Original Research Article",
       "issue": "Vol. 2, No. 5 (2025)",
       "year": 2025,
-      "views": 3725,
-      "downloads": 869
+      "views": 4075,
+      "downloads": 955
     },
     {
       "id": 47,
@@ -1009,8 +1010,8 @@
       "articleType": "Original Research Article",
       "issue": "Vol. 2, No. 3 (2025)",
       "year": 2025,
-      "views": 822,
-      "downloads": 565
+      "views": 929,
+      "downloads": 656
     },
     {
       "id": 48,
@@ -1024,8 +1025,8 @@
       "articleType": "Original Research Article",
       "issue": "Vol. 2, No. 5 (2025)",
       "year": 2025,
-      "views": 2454,
-      "downloads": 337
+      "views": 2843,
+      "downloads": 428
     },
     {
       "id": 50,
@@ -1038,8 +1039,8 @@
       "articleType": "Original Research Article",
       "issue": "Vol. 2, No. 4 (2025)",
       "year": 2025,
-      "views": 481,
-      "downloads": 0
+      "views": 620,
+      "downloads": 495
     },
     {
       "id": 51,
@@ -1052,8 +1053,8 @@
       "articleType": "Book Review",
       "issue": "Vol. 2, No. 3 (2025)",
       "year": 2025,
-      "views": 493,
-      "downloads": 426
+      "views": 590,
+      "downloads": 489
     },
     {
       "id": 53,
@@ -1066,8 +1067,8 @@
       "articleType": "Original Research Article",
       "issue": "Vol. 2, No. 4 (2025)",
       "year": 2025,
-      "views": 1174,
-      "downloads": 577
+      "views": 1530,
+      "downloads": 718
     },
     {
       "id": 54,
@@ -1083,8 +1084,8 @@
       "articleType": "Original Research Article",
       "issue": "Vol. 2, No. 5 (2025)",
       "year": 2025,
-      "views": 892,
-      "downloads": 0
+      "views": 1041,
+      "downloads": 23
     },
     {
       "id": 56,
@@ -1098,8 +1099,8 @@
       "articleType": "Original Research Article",
       "issue": "Vol. 2, No. 5 (2025)",
       "year": 2025,
-      "views": 2886,
-      "downloads": 1233
+      "views": 3474,
+      "downloads": 1461
     },
     {
       "id": 57,
@@ -1113,8 +1114,8 @@
       "articleType": "Review Article",
       "issue": "Vol. 2, No. 4 (2025)",
       "year": 2025,
-      "views": 2395,
-      "downloads": 718
+      "views": 2841,
+      "downloads": 853
     },
     {
       "id": 58,
@@ -1129,8 +1130,8 @@
       "articleType": "Original Research Article",
       "issue": "Vol. 2, No. 5 (2025)",
       "year": 2025,
-      "views": 2881,
-      "downloads": 646
+      "views": 3343,
+      "downloads": 719
     },
     {
       "id": 65,
@@ -1146,8 +1147,8 @@
       "articleType": "Original Research Article",
       "issue": "Vol. 2, No. 4 (2025)",
       "year": 2025,
-      "views": 3243,
-      "downloads": 557
+      "views": 3515,
+      "downloads": 617
     },
     {
       "id": 66,
@@ -1160,8 +1161,8 @@
       "articleType": "Review Article",
       "issue": "Vol. 2, No. 5 (2025)",
       "year": 2025,
-      "views": 1652,
-      "downloads": 1031
+      "views": 1967,
+      "downloads": 1179
     },
     {
       "id": 74,
@@ -1181,8 +1182,8 @@
       "articleType": "Original Research Article",
       "issue": "Vol. 2, No. 5 (2025)",
       "year": 2025,
-      "views": 986,
-      "downloads": 806
+      "views": 1139,
+      "downloads": 892
     },
     {
       "id": 75,
@@ -1195,8 +1196,8 @@
       "articleType": "Original Article",
       "issue": "Vol. 3, No. 1 (2026)",
       "year": 2026,
-      "views": 728,
-      "downloads": 434
+      "views": 894,
+      "downloads": 501
     },
     {
       "id": 76,
@@ -1211,8 +1212,8 @@
       "articleType": "Original Article",
       "issue": "Vol. 3, No. 1 (2026)",
       "year": 2026,
-      "views": 3980,
-      "downloads": 378
+      "views": 5867,
+      "downloads": 447
     },
     {
       "id": 78,
@@ -1226,8 +1227,8 @@
       "articleType": "Original Article",
       "issue": "Vol. 3, No. 1 (2026)",
       "year": 2026,
-      "views": 1073,
-      "downloads": 351
+      "views": 1210,
+      "downloads": 421
     },
     {
       "id": 82,
@@ -1244,8 +1245,8 @@
       "articleType": "Original Research Article",
       "issue": "Vol. 2, No. 5 (2025)",
       "year": 2025,
-      "views": 1129,
-      "downloads": 356
+      "views": 1282,
+      "downloads": 410
     },
     {
       "id": 84,
@@ -1262,8 +1263,8 @@
       "articleType": "Original Article",
       "issue": "Vol. 3, No. 1 (2026)",
       "year": 2026,
-      "views": 6095,
-      "downloads": 2175
+      "views": 7539,
+      "downloads": 2477
     },
     {
       "id": 88,
@@ -1277,8 +1278,8 @@
       "articleType": "Original Research Article",
       "issue": "Vol. 3, No. 2 (2026)",
       "year": 2026,
-      "views": 555,
-      "downloads": 106
+      "views": 844,
+      "downloads": 198
     },
     {
       "id": 89,
@@ -1293,8 +1294,8 @@
       "articleType": "Editorial",
       "issue": "Vol. 2, No. 5 (2025)",
       "year": 2025,
-      "views": 1606,
-      "downloads": 401
+      "views": 1982,
+      "downloads": 473
     },
     {
       "id": 92,
@@ -1308,8 +1309,8 @@
       "articleType": "Original Research Article",
       "issue": "Vol. 3, No. 2 (2026)",
       "year": 2026,
-      "views": 437,
-      "downloads": 111
+      "views": 678,
+      "downloads": 178
     },
     {
       "id": 93,
@@ -1323,8 +1324,8 @@
       "articleType": "Original Research Article",
       "issue": "Vol. 3, No. 2 (2026)",
       "year": 2026,
-      "views": 499,
-      "downloads": 168
+      "views": 778,
+      "downloads": 280
     },
     {
       "id": 96,
@@ -1344,8 +1345,8 @@
       "articleType": "Original Article",
       "issue": "Vol. 3, No. 1 (2026)",
       "year": 2026,
-      "views": 1052,
-      "downloads": 426
+      "views": 1335,
+      "downloads": 527
     },
     {
       "id": 97,
@@ -1361,8 +1362,8 @@
       "articleType": "Protocol Article",
       "issue": "Vol. 3, No. 1 (2026)",
       "year": 2026,
-      "views": 778,
-      "downloads": 295
+      "views": 976,
+      "downloads": 361
     },
     {
       "id": 100,
@@ -1376,8 +1377,8 @@
       "articleType": "Original Research Article",
       "issue": "Vol. 3, No. 2 (2026)",
       "year": 2026,
-      "views": 326,
-      "downloads": 154
+      "views": 502,
+      "downloads": 242
     },
     {
       "id": 102,
@@ -1394,8 +1395,8 @@
       "articleType": "Review Article",
       "issue": "Vol. 3, No. 2 (2026)",
       "year": 2026,
-      "views": 3679,
-      "downloads": 482
+      "views": 5603,
+      "downloads": 922
     },
     {
       "id": 105,
@@ -1410,8 +1411,8 @@
       "articleType": "Original Research Article",
       "issue": "Vol. 3, No. 2 (2026)",
       "year": 2026,
-      "views": 2114,
-      "downloads": 131
+      "views": 2890,
+      "downloads": 258
     }
   ],
   "publishingModel": [
@@ -1426,10 +1427,10 @@
     "CC BY-NC-ND 4.0"
   ],
   "wos": {
-    "dataUpdated": "July 20, 2026",
-    "citationLinks": 140,
+    "dataUpdated": "August 22, 2026",
+    "citationLinks": 141,
     "uniqueCitingDocuments": 61,
-    "citedJsomerArticles": 20,
+    "citedJsomerArticles": 21,
     "citingSourceJournals": 40,
     "countriesRegions": 35,
     "citingDocumentsByYear": [
@@ -1444,70 +1445,70 @@
     ],
     "mostCitedArticles": [
       {
-        "title": "Problematic smartphone use, depression symptoms, and fear of missing out: Can reasons for smartphone use mediate the relationship? A longitudinal approach",
+        "title": "",
         "doi": "10.29329/jsomer.3",
         "url": "https://doi.org/10.29329/jsomer.3",
         "year": 2024,
         "citations": 22
       },
       {
-        "title": "Exploration of the association between social media addiction, self-esteem, self-compassion and loneliness",
+        "title": "",
         "doi": "10.29329/jsomer.2",
         "url": "https://doi.org/10.29329/jsomer.2",
         "year": 2024,
         "citations": 19
       },
       {
-        "title": "Pathways to social media addiction: Examining its prevalence, and predictive factors among Ghanaian youths",
+        "title": "",
         "doi": "10.29329/jsomer.9",
         "url": "https://doi.org/10.29329/jsomer.9",
         "year": 2024,
         "citations": 17
       },
       {
-        "title": "Association between problematic social media use and physical activity: the mediating roles of nomophobia and the tendency to avoid physical activity",
+        "title": "",
         "doi": "10.29329/jsomer.4",
         "url": "https://doi.org/10.29329/jsomer.4",
         "year": 2024,
         "citations": 14
       },
       {
-        "title": "Relationship stress and sleep: examining the mediation of social media use for objective and subjective sleep quality",
+        "title": "",
         "doi": "10.29329/jsomer.15",
         "url": "https://doi.org/10.29329/jsomer.15",
         "year": 2025,
         "citations": 12
       },
       {
-        "title": "Weight stigma exposure inventory (WeSEI):  Adaptation to Turkish culture, validity and reliability study",
-        "doi": "10.29329/jsomer.27",
-        "url": "https://doi.org/10.29329/jsomer.27",
-        "year": 2025,
-        "citations": 10
-      },
-      {
-        "title": "YouTube addiction scale (YAS): Adaptation to Turkish culture, validity and reliability study",
+        "title": "",
         "doi": "10.29329/jsomer.20",
         "url": "https://doi.org/10.29329/jsomer.20",
         "year": 2025,
         "citations": 10
       },
       {
-        "title": "Motives for social media use in adults: associations with platform-specific use, psychological distress, and problematic engagement",
+        "title": "",
+        "doi": "10.29329/jsomer.27",
+        "url": "https://doi.org/10.29329/jsomer.27",
+        "year": 2025,
+        "citations": 10
+      },
+      {
+        "title": "",
         "doi": "10.29329/jsomer.45",
         "url": "https://doi.org/10.29329/jsomer.45",
+        "year": 2025,
+        "citations": 10
+      },
+      {
+        "title": "",
+        "doi": "10.29329/jsomer.47",
+        "url": "https://doi.org/10.29329/jsomer.47",
         "year": 2025,
         "citations": 8
       },
       {
-        "title": "Weight stigma exposure inventory (WeSEI): Validity and reliability study of the Chinese version in Hong Kong",
-        "doi": "10.29329/jsomer.47",
-        "url": "https://doi.org/10.29329/jsomer.47",
-        "year": 2025,
-        "citations": 7
-      },
-      {
-        "title": "What is the impact of viewing social media style images in different contexts on body satisfaction and body size estimation?",
+        "title": "",
         "doi": "10.29329/jsomer.33",
         "url": "https://doi.org/10.29329/jsomer.33",
         "year": 2025,
@@ -1608,42 +1609,42 @@
         "documents": 1
       }
     ],
-    "methodNote": "Citation links are summed across verified JSOMER records carrying the official DOI prefix 10.29329/jsomer. Unique citing documents are deduplicated by Web of Science accession number. One citing document may cite more than one JSOMER article.",
-    "averageCitationsPerPublishedArticle": 2.74,
-    "averageCitationsPerCitedArticle": 6.85
+    "methodNote": "Citation links are summed across verified JSOMER records in the August 22, 2026 Web of Science export. The malformed duplicate DOI 10.29329/jsomer.29345 was excluded because the valid record 10.29329/jsomer.45 is present. Citing-document indicators remain based on the latest available citing-document export.",
+    "averageCitationsPerPublishedArticle": 2.82,
+    "averageCitationsPerCitedArticle": 6.71
   },
   "peerReview": {
-    "dataUpdated": "July 21, 2026",
-    "manuscriptsEnteringPeerReview": 65,
-    "reviewersInvited": 442,
-    "reviewInvitations": 540,
-    "completedReports": 190,
-    "medianInvitationToCompletionDays": 6.7,
-    "completedWithin21DaysPct": 95.3,
-    "completedByDeadlinePct": 85.8,
+    "dataUpdated": "August 22, 2026",
+    "manuscriptsEnteringPeerReview": 67,
+    "reviewersInvited": 444,
+    "reviewInvitations": 550,
+    "completedReports": 191,
+    "medianInvitationToCompletionDays": 7.4,
+    "completedWithin21DaysPct": 94.8,
+    "completedByDeadlinePct": 84.3,
     "annualActivity": [
       {
         "year": 2024,
         "invitations": 71,
-        "completed": 26
+        "completed": 23
       },
       {
         "year": 2025,
         "invitations": 348,
-        "completed": 121
+        "completed": 122
       },
       {
         "year": 2026,
-        "invitations": 121,
-        "completed": 43
+        "invitations": 131,
+        "completed": 46
       }
     ]
   },
   "scopus": {
-    "dataUpdated": "July 24, 2026",
-    "citationLinks": 135,
+    "dataUpdated": "August 22, 2026",
+    "citationLinks": 142,
     "uniqueCitingDocuments": 70,
-    "citedJsomerArticles": 22,
+    "citedJsomerArticles": 23,
     "citingSourceJournals": 49,
     "citingDocumentsByYear": [
       {
@@ -1711,22 +1712,15 @@
         "documents": 2
       }
     ],
-    "averageCitationsPerPublishedArticle": 2.7,
-    "averageCitationsPerCitedArticle": 6.14,
+    "averageCitationsPerPublishedArticle": 2.84,
+    "averageCitationsPerCitedArticle": 6.17,
     "mostCitedArticles": [
       {
         "title": "Problematic smartphone use, depression symptoms, and fear of missing out: Can reasons for smartphone use mediate the relationship? A longitudinal approach",
         "authors": "Stirnberg, J.; Margraf, J.; Precht, L.-M.; Brailovskaia, J.",
         "year": 2024,
-        "citations": 21,
+        "citations": 22,
         "url": "https://www.scopus.com/pages/publications/105003601694?origin=resultslist"
-      },
-      {
-        "title": "Pathways to social media addiction: Examining its prevalence, and predictive factors among Ghanaian youths",
-        "authors": "Ahorsu, D.K.",
-        "year": 2024,
-        "citations": 18,
-        "url": "https://www.scopus.com/pages/publications/105003873974?origin=resultslist"
       },
       {
         "title": "Exploration of the association between social media addiction, self-esteem, self-compassion and loneliness",
@@ -1734,6 +1728,13 @@
         "year": 2024,
         "citations": 18,
         "url": "https://www.scopus.com/pages/publications/105007889801?origin=resultslist"
+      },
+      {
+        "title": "Pathways to social media addiction: Examining its prevalence, and predictive factors among Ghanaian youths",
+        "authors": "Ahorsu, D.K.",
+        "year": 2024,
+        "citations": 18,
+        "url": "https://www.scopus.com/pages/publications/105003873974?origin=resultslist"
       },
       {
         "title": "Association between problematic social media use and physical activity: The mediating roles of nomophobia and the tendency to avoid physical activity",
@@ -1750,6 +1751,13 @@
         "url": "https://www.scopus.com/pages/publications/105009037942?origin=resultslist"
       },
       {
+        "title": "Weight stigma exposure inventory (WeSEI): Validity and reliability study of the Chinese version in Hong Kong",
+        "authors": "Chen, J.-K.; Rhodes, O.; Fan, C.-W.; O'Brien, K.M.; Gökalp, A.; Degirmenci, N.; Lin, C.-Y.",
+        "year": 2025,
+        "citations": 10,
+        "url": "https://www.scopus.com/pages/publications/105018874320?origin=resultslist"
+      },
+      {
         "title": "Weight stigma exposure inventory (WeSEI): adaptation to Turkish culture, validity and reliability study",
         "authors": "Çarkıt, C.; Gan, W.Y.; Koç, H.; Bevan, N.; Avcı, E.; Lin, Y.C.",
         "year": 2025,
@@ -1757,25 +1765,18 @@
         "url": "https://www.scopus.com/pages/publications/105008072505?origin=resultslist"
       },
       {
+        "title": "Motives for social media use in adults: Associations with platform-specific use, psychological distress, and problematic engagement",
+        "authors": "Wolgast, M.; Adler, H.; Wolgast, S.N.",
+        "year": 2025,
+        "citations": 9,
+        "url": "https://www.scopus.com/pages/publications/105021029486?origin=resultslist"
+      },
+      {
         "title": "YouTube addiction scale (YAS): Adaptation to Turkish culture, validity and reliability study",
         "authors": "Dinç, E.; Ruckwongpatr, K.; Karaduman, A.; Chen, I.H.; Karaduman, A.; Wang, X.L.",
         "year": 2025,
         "citations": 9,
         "url": "https://www.scopus.com/pages/publications/105009146811?origin=resultslist"
-      },
-      {
-        "title": "Weight stigma exposure inventory (WeSEI): Validity and reliability study of the Chinese version in Hong Kong",
-        "authors": "Chen, J.-K.; Rhodes, O.; Fan, C.-W.; O'Brien, K.M.; Gökalp, A.; Degirmenci, N.; Lin, C.-Y.",
-        "year": 2025,
-        "citations": 8,
-        "url": "https://www.scopus.com/pages/publications/105018874320?origin=resultslist"
-      },
-      {
-        "title": "Motives for social media use in adults: Associations with platform-specific use, psychological distress, and problematic engagement",
-        "authors": "Wolgast, M.; Adler, H.; Nurali Wolgast, S.",
-        "year": 2025,
-        "citations": 7,
-        "url": "https://www.scopus.com/pages/publications/105021029486?origin=resultslist"
       },
       {
         "title": "What is the impact of viewing social media style images in different contexts on body satisfaction and body size estimation?",
@@ -1786,7 +1787,7 @@
       },
       {
         "title": "Social Media Fatigue Scale: Adaptation to Turkish culture, validity and reliability study",
-        "authors": "Gökalp, A.; Fan, C.-W.; İnel, Y.; Chen, I.-H.",
+        "authors": "G��kalp, A.; Fan, C.-W.; ��nel, Y.; Chen, I.-H.",
         "year": 2024,
         "citations": 3,
         "url": "https://www.scopus.com/pages/publications/105010081262?origin=resultslist"
@@ -1799,32 +1800,46 @@
         "url": "https://www.scopus.com/pages/publications/105018876749?origin=resultslist"
       },
       {
-        "title": "Social media sentiment on ChatGPT in education: Ethical implications",
-        "authors": "Elhersh, A.; Alqawasmeh, F.",
-        "year": 2024,
-        "citations": 1,
-        "url": "https://www.scopus.com/pages/publications/105012912591?origin=resultslist"
-      },
-      {
-        "title": "Adaptation of perceived social media literacy scale to Turkish culture: The case of educators",
-        "authors": "Polat, M.; Kara, M.; Oppong, D.; Ahorsu, D.K.",
-        "year": 2025,
-        "citations": 1,
-        "url": "https://www.scopus.com/pages/publications/105034135245?origin=resultslist"
-      },
-      {
-        "title": "My socials told me i have adhd: A crosssectional study of information about adhd symptomatology on social media",
-        "authors": "Hulsizer, B.; Passaro, F.",
-        "year": 2025,
-        "citations": 1,
-        "url": "https://www.scopus.com/pages/publications/105038755710?origin=resultslist"
-      },
-      {
         "title": "TikTok Narratives of Global Social Anxieties: FoMO, FoBO and Fear of Being Seen",
         "authors": "Castaldi, M.",
         "year": 2025,
-        "citations": 1,
+        "citations": 2,
         "url": "https://www.scopus.com/pages/publications/105034977207?origin=resultslist"
+      },
+      {
+        "title": "Psychiatric trainees’ perspectives on patients’ social media use: a survey study",
+        "authors": "Lenihan, V.; Awuku-Aboagye, E.; Straub, J.",
+        "year": 2025,
+        "citations": 1,
+        "url": "https://www.scopus.com/pages/publications/105047037955?origin=resultslist"
+      },
+      {
+        "title": "Milestones and Mindsets: How Social Media Shapes Young Adults’ Expectations and Emotional Well-Being",
+        "authors": "O'Connell, R.; Daruwala, N.A.",
+        "year": 2025,
+        "citations": 1,
+        "url": "https://www.scopus.com/pages/publications/105043951877?origin=resultslist"
+      },
+      {
+        "title": "The Relationship Between Election-Related Social Media Activism and College Students’ Negative Future Expectancy",
+        "authors": "Waller, Z.; Yu, A.G.; Kadotani, K.M.; McMichael, S.L.; Kwan, V.S.Y.",
+        "year": 2025,
+        "citations": 1,
+        "url": "https://www.scopus.com/pages/publications/105043932788?origin=resultslist"
+      },
+      {
+        "title": "Information and communication technologies: The expansion of individual freedom and the gradual conquest of the universal",
+        "authors": "Sfakianos, N.",
+        "year": 2025,
+        "citations": 1,
+        "url": "https://www.scopus.com/pages/publications/105041694916?origin=resultslist"
+      },
+      {
+        "title": "Disinformation and democratic threats: Insights from the 2019 Canadian federal election",
+        "authors": "Louden, R.; Frank, R.",
+        "year": 2025,
+        "citations": 1,
+        "url": "https://www.scopus.com/pages/publications/105041740960?origin=resultslist"
       },
       {
         "title": "I have so much FoMO! An exploration into psychological variables influencing fear of missing out and Snapchat intensity",
@@ -1841,32 +1856,25 @@
         "url": "https://www.scopus.com/pages/publications/105039253934?origin=resultslist"
       },
       {
-        "title": "Disinformation and democratic threats: Insights from the 2019 Canadian federal election",
-        "authors": "Louden, R.; Frank, R.",
+        "title": "My socials told me i have adhd: A crosssectional study of information about adhd symptomatology on social media",
+        "authors": "Hulsizer, B.; Passaro, F.",
         "year": 2025,
         "citations": 1,
-        "url": "https://www.scopus.com/pages/publications/105041740960?origin=resultslist"
+        "url": "https://www.scopus.com/pages/publications/105038755710?origin=resultslist"
       },
       {
-        "title": "Information and communication technologies: The expansion of individual freedom and the gradual conquest of the universal",
-        "authors": "Sfakianos, N.",
+        "title": "Adaptation of perceived social media literacy scale to Turkish culture: The case of educators",
+        "authors": "Polat, M.; Kara, M.; Oppong, D.; Ahorsu, D.K.",
         "year": 2025,
         "citations": 1,
-        "url": "https://www.scopus.com/pages/publications/105041694916?origin=resultslist"
+        "url": "https://www.scopus.com/pages/publications/105034135245?origin=resultslist"
       },
       {
-        "title": "The Relationship Between Election-Related Social Media Activism and College Students’ Negative Future Expectancy",
-        "authors": "Waller, Z.; Yu, A.G.; Kadotani, K.M.; McMichael, S.L.; Kwan, V.S.Y.",
-        "year": 2025,
+        "title": "Social media sentiment on ChatGPT in education: Ethical implications",
+        "authors": "Elhersh, A.; Alqawasmeh, F.",
+        "year": 2024,
         "citations": 1,
-        "url": "https://www.scopus.com/pages/publications/105043932788?origin=resultslist"
-      },
-      {
-        "title": "Milestones and Mindsets: How Social Media Shapes Young Adults’ Expectations and Emotional Well-Being",
-        "authors": "O'Connell, R.; Daruwala, N.A.",
-        "year": 2025,
-        "citations": 1,
-        "url": "https://www.scopus.com/pages/publications/105043951877?origin=resultslist"
+        "url": "https://www.scopus.com/pages/publications/105012912591?origin=resultslist"
       }
     ],
     "citingDocuments": [
@@ -2501,7 +2509,7 @@
         "url": "https://www.scopus.com/pages/publications/85219569251?origin=resultslist"
       }
     ],
-    "methodNote": "Citation links are summed from Scopus Cited by counts. Citing documents are unique Scopus records. One citing document may cite more than one JSOMER article."
+    "methodNote": "Citation links are summed from the Cited by values in the August 22, 2026 Scopus export after deduplication by EID. Citing-document indicators remain based on the latest available citing-document export."
   },
   "geography": {
     "authorsByContinent": [
@@ -2535,47 +2543,45 @@
     "visitorsByContinent": [
       {
         "continent": "Europe",
-        "visitors": 3916,
-        "countries": 41,
-        "percentage": 40.9
+        "visitors": 4005,
+        "countries": 42,
+        "percentage": 39.9
       },
       {
         "continent": "North America",
-        "visitors": 2850,
-        "countries": 17,
-        "percentage": 29.7
+        "visitors": 2996,
+        "countries": 15,
+        "percentage": 29.9
       },
       {
         "continent": "Asia",
-        "visitors": 2229,
-        "countries": 42,
-        "percentage": 23.3
+        "visitors": 2391,
+        "countries": 43,
+        "percentage": 23.8
       },
       {
         "continent": "Africa",
-        "visitors": 338,
-        "countries": 24,
-        "percentage": 3.5
+        "visitors": 373,
+        "countries": 23,
+        "percentage": 3.7
       },
       {
         "continent": "South America",
-        "visitors": 116,
+        "visitors": 124,
         "countries": 8,
         "percentage": 1.2
       },
       {
         "continent": "Oceania",
-        "visitors": 135,
-        "countries": 5,
+        "visitors": 143,
+        "countries": 6,
         "percentage": 1.4
       }
     ],
-    "visitorTotalWithReportedCounts": 9584,
+    "visitorTotalWithReportedCounts": 10032,
     "visitorCountriesListed": 137,
-    "countriesMissingVisitorCount": [
-      "Ethiopia"
-    ],
-    "classificationNote": "Turkey is classified as Europe. Author geography is based on country-affiliation records in the published-article dataset; because internationally affiliated authors may contribute to more than one country total, the 140 country records are not the same as the 136 unique contributing authors. Visitor geography uses the supplied Flag Counter country totals. Ethiopia was listed without a visitor count and is excluded from visitor totals and percentages.",
+    "countriesMissingVisitorCount": [],
+    "classificationNote": "Turkey is classified as Europe. Author geography is based on country-affiliation records in the published-article dataset. Visitor geography uses the supplied Flag Counter country totals dated August 22, 2026 and includes 137 countries or territories with 10,032 recorded visitors.",
     "authorMeasure": "Author-country affiliation records"
   }
 }
